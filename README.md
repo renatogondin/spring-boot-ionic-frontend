@@ -6,6 +6,6 @@
     
     <h2>Check some images</h2>
     
-     <img src="2.png" width="500" height="600"> 
+     <img src="fotografias/2.png" width="500" height="600"> 
      <caption>Sign-in/Sign-up</caption>
     
