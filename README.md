@@ -4,3 +4,8 @@
  <p>This is the front-end part of a full-stack app developed with Java (Spring) for the <br>
     back-end and Javascript(Ionic) for the front-end part</p>
     
+    <h2>Check some images</h2>
+    
+     <img src="2.png" width="500" height="600"> 
+     <caption>Sign-in/Sign-up</caption>
+    
